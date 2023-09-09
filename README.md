@@ -1,7 +1,7 @@
 # Weather-App
 A simple Weather Application which fetches current weather data from Open Weather API.
 In this project the weather conditions of a city is found by searching with city name.
-We can also find weather based on ZipCode or City Id by using different url.
+We can also get weather data based on ZipCode or City Id by using different url.
 # To fetch data from API
 Step 1: Go to : https://openweathermap.org/
 Step 2: Create an account or sign in with email.
