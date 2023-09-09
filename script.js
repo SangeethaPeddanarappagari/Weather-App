@@ -5,7 +5,7 @@ let weatherDesc = document.getElementById('weatherDesc')
 let btnEle = document.getElementById('btn')
 let icon=document.getElementById('icon')
 
-const apiKey = "fe40b57c9d017de24ecf35bf695dc59d"
+const apiKey = "Use your api key"
 
 btnEle.onclick = function(){
     if(inputEle.value == '')
