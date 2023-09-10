@@ -5,7 +5,8 @@ We can also get weather data based on ZipCode or City Id by using different url.
 # To fetch data from API
 Step 1: Go to : https://openweathermap.org/
 Step 2: Create an account or sign in with email.
-Step 3: After creating an account you will get an API Key. Find your API key as follow
-Click on profile -> My API Keys. Save this key, we use this i.n our program
+Step 3: After creating an account you will get an API Key. Find your API key as follows
+Click on profile -> My API Keys. Save this key, we use this in our program
 Step 4: Click on API-> Current Weather data -> Built-in API request by City name
-Step 5: Copy the API call and paste it in out program
+Step 5: Copy the API call and paste it in out program.
+
